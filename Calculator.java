@@ -3,3 +3,5 @@ public class Calculator {
         System.out.println("Simple Calculator");
     }
 }
+
+public static int add(int a, int b) { return a + b; }
